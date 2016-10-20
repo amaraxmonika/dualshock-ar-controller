@@ -6,7 +6,7 @@ A bare bones controller for Parrot AR Drone.
 2. Power on Parrot AR drone
 3. Join AR drone wifi network
 4. Run ``` node controller.js  ```
-5. Press (circle) to takeoff and control with right and left joysticks
+5. Press (triangle) to takeoff and control with right and left joysticks
 
 ## Controller definition
 |Button    |Action           |
