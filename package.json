@@ -1,0 +1,25 @@
+{
+  "name": "dualshock-ar-controller",
+  "version": "1.0.0",
+  "description": "Simple controller interface for parrot ar drone",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaraxmonika/dualshock-ar-controller.git"
+  },
+  "keywords": [
+    "parrot",
+    "ar",
+    "drone",
+    "controller"
+  ],
+  "author": "chasen johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaraxmonika/dualshock-ar-controller/issues"
+  },
+  "homepage": "https://github.com/amaraxmonika/dualshock-ar-controller#readme"
+}
